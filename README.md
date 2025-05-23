@@ -146,17 +146,17 @@
 
 <!----------------------------------------------------------------------------------->
 วิธีการติดตั้ง
-1.ติดตั้งโปรเเกรม xammp ' \n '
-2.ติดตั้ง vs code  ' \n '
-3.ติดตั้ง composer และ เซ็ต env ' \n '
-4.ติดตั้ง git ' \n '
-5.รัน composer i ' \n '
-6.รัน php artisan key:generate ' \n '
-7.รัน php artisan migrate --seed ' \n '
-8.run php artisan serve ' \n '
+1.ติดตั้งโปรเเกรม xammp 
+2.ติดตั้ง vs code  
+3.ติดตั้ง composer และ เซ็ต env 
+4.ติดตั้ง git 
+5.รัน composer i 
+6.รัน php artisan key:generate 
+7.รัน php artisan migrate --seed
+8.run php artisan serve 
 
-เข้าสู่ระบบ ' \n '
-user: admin@admin.com ' \n '
-pass: a12345678 ' \n '
-แค่นี้ก็ใช้งานโปรเเกรมได้แล้ว++ ' \n '
+เข้าสู่ระบบ 
+user: admin@admin.com 
+pass: a12345678 
+แค่นี้ก็ใช้งานโปรเเกรมได้แล้ว++ 
 <!-------------------------->
